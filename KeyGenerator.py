@@ -44,3 +44,4 @@ for KeyIndex in range(KeysCount):
             CharIndex+=1
         KeyChunks.append(KeyChunk)
     print('-'.join(KeyChunks))
+input()
