@@ -1,0 +1,8 @@
+{
+    "AskForKeyStart": false,
+    "AskForKeysCount": false,
+    "Vocabulary": "ABCDEF0123456789",
+    "KeyChunksCount": 5,
+    "KeyChunksLength": 5,
+    "KeyChunksSeparatorChar": "-"
+}
