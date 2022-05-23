@@ -43,5 +43,5 @@ for KeyIndex in range(KeysCount):
                 KeyChunk = KeyChunk + Configuration["Vocabulary"][randint(0, VocabularyLength - 1)]
             CharIndex+=1
         KeyChunks.append(KeyChunk)
-    print('-'.join(KeyChunks))
+    print(Configuration["KeyChunksSeparatorChar"].join(KeyChunks))
 input()
